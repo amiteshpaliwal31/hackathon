@@ -1,3 +1,4 @@
 streamlit
 plotly
 streamlit-lottie
+streamlit_option_menu
